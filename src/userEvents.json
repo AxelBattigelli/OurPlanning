@@ -1,0 +1,40 @@
+{
+    "evenements": [
+        {
+            "nom": "Réunion d'équipe1",
+            "heure_debut": "2024-01-31T09:00:00",
+            "heure_fin": "2024-01-31T10:30:00",
+            "username": "a"
+        },
+        {
+            "nom": "Déjeuner avec client1",
+            "heure_debut": "2024-02-01T12:30:00",
+            "heure_fin": "2024-02-01T13:30:00",
+            "username": "b"
+        },
+        {
+            "nom": "Formation1",
+            "heure_debut": "2024-02-02T14:00:00",
+            "heure_fin": "2024-02-02T16:00:00",
+            "username": "a"
+        },
+        {
+            "nom": "Réunion d'équipe2",
+            "heure_debut": "2024-02-05T09:00:00",
+            "heure_fin": "2024-02-05T10:30:00",
+            "username": "a"
+        },
+        {
+            "nom": "Déjeuner avec client2",
+            "heure_debut": "2024-02-08T12:30:00",
+            "heure_fin": "2024-02-08T13:30:00",
+            "username": "b"
+        },
+        {
+            "nom": "Formation2",
+            "heure_debut": "2024-02-08T14:00:00",
+            "heure_fin": "2024-02-08T16:00:00",
+            "username": "a"
+        }
+    ]
+}
